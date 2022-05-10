@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Rectangle),Id(Shape),[MethodDecl(Id(Constructor),Instance,[param(Id(a),IntType),param(Id(b),IntType)],Block([AssignStmt(FieldAccess(Self(),Id(length)),Id(a)),AssignStmt(FieldAccess(Self(),Id(width)),Id(b))]))])])

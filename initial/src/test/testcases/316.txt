@@ -1,0 +1,4 @@
+Class Parent{
+    Val a: Int;
+    Constructor(){a = 5;}
+}

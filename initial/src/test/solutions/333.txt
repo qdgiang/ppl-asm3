@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(IP),[AttributeDecl(Instance,ConstDecl(Id(g),IntType,None)),AttributeDecl(Instance,VarDecl(Id(o),StringType,StringLit(as	))),AttributeDecl(Instance,VarDecl(Id(l),StringType,StringLit(ion'"))),AttributeDecl(Instance,VarDecl(Id(j),StringType,StringLit(3172)))])])

@@ -1,0 +1,9 @@
+        
+        Class son: _Child{
+            Val asdss: String;
+            if_test(){
+                If (class::$asd +. Parent.asd ==. "String"){
+                    out.print("Bruh");
+                }
+            }
+        }

@@ -1,0 +1,7 @@
+        
+       Class Child:B{
+           Var a, b, c:Int;
+           Foo(){
+               Var a, b, c:Int;
+           }
+       }

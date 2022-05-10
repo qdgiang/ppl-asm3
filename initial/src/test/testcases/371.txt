@@ -1,0 +1,6 @@
+        
+        Class A{
+            foo(a,e:Int; b,f:Float; c,g:String; d:Boolean; e: randomclass){
+                Return 5+3+Self.a+e;
+            }
+        }

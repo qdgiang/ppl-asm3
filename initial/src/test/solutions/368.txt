@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(test),[AttributeDecl(Instance,VarDecl(Id(f),StringType,BooleanLit(True))),AttributeDecl(Static,VarDecl(Id($t),StringType,BooleanLit(False))),AttributeDecl(Instance,VarDecl(Id(_j),StringType,IntLit(98))),MethodDecl(Id(nn),Instance,[param(Id(a),IntType),param(Id(b),StringType),param(Id(c),StringType)],Block([Call(Id(print),Id(out),[])]))])])

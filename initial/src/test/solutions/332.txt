@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(test),[AttributeDecl(Static,ConstDecl(Id($f),StringType,BooleanLit(True))),AttributeDecl(Static,ConstDecl(Id($t),StringType,BooleanLit(False))),AttributeDecl(Static,ConstDecl(Id($_j),StringType,IntLit(98))),MethodDecl(Id(nn),Instance,[],Block([Call(Id(print),Id(out),[])]))])])

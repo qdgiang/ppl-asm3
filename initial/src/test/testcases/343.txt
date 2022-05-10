@@ -1,0 +1,8 @@
+Class A {
+           foo(){
+               Break;
+               Continue;
+               Return a==.!b;
+               {}
+           }
+       }

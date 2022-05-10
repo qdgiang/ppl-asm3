@@ -1,0 +1,4 @@
+Class IP  {
+                          Val g : Int ;
+                          Var o,l,j : String = "as	" , "ion'"" , "3172" ;
+                    }

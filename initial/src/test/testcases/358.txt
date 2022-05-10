@@ -1,0 +1,6 @@
+        
+        Class A{
+            foo(){
+                Return 1.678;
+            }
+        }

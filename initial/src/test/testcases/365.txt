@@ -1,0 +1,10 @@
+        
+        Class A{
+            foo(){
+                Foreach (a In 1 .. 100)
+                {
+                    Out.printInt(arr[x]);
+                    Return i;
+                }
+            }
+        }

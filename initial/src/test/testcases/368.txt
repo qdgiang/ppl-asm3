@@ -1,0 +1,6 @@
+Class test {
+            Var f,$t,_j : String = True, False, 98 ;
+            nn(a: Int; b,c: String){
+                print.out();
+                    }
+            } 

@@ -1,0 +1,6 @@
+        
+        Class A{
+            foo(){
+                Return .5e-2;
+            }
+        }

@@ -1,0 +1,7 @@
+  Class test {
+                             Val $f,$t,$_j : String = True, False, 98 ;
+                              nn(){
+                                  print.out();
+                              }
+                     } 
+                    

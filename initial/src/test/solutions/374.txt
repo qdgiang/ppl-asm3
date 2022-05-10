@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Child),Id(Parent),[AttributeDecl(Instance,ConstDecl(Id(asd),StringType,None)),MethodDecl(Id(if_test),Instance,[],Block([If(BinaryOp(==.,FieldAccess(Id(class),Id(what)),StringLit(String)),Block([Call(Id(out),Id(print),[StringLit(Bruh)])]))]))])])

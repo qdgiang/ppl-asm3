@@ -1,0 +1,12 @@
+        
+        Class Child: Parent{
+            Val i: Int;
+            if_test(){
+                If ((i+3)/2 == 5){
+                    out.print("Bruh2");
+                }
+                Elseif (i%2 != 0){
+                    out.print("Elseif");
+                }
+            }
+        }

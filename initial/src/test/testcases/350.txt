@@ -1,0 +1,9 @@
+        
+        Class Child{
+        test() {
+            Out.printin(1);
+            Out.print("Hello");
+            Out.print(1.5);
+            Return 5;
+        }
+    }

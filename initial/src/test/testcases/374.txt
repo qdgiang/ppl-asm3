@@ -1,0 +1,9 @@
+        
+        Class Child: Parent{
+            Val asd: String;
+            if_test(){
+                If (class.what ==. "String"){
+                    out.print("Bruh");
+                }
+            }
+        }

@@ -1,0 +1,9 @@
+        
+        Class Child: Parent{
+            Val child: String;
+            foreach_test(){
+                Foreach (i In 1 .. 100 By 1){
+                    Out.print(Self.child);
+                }
+            }
+        }

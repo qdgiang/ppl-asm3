@@ -1,0 +1,28 @@
+
+        Class Parent{
+            Val a: Int;
+            Var $b, $c: Int = 1 + 6, 2;
+            getRandom(){
+                RandomClass.print();
+            }
+            getDoubleA(){
+                RandomClass.print(a*a);
+            }
+            getBplusCplusD(D: Int){
+                D = 5;
+                Return Self.b + Self.c + D;
+            }
+            Constructor(){
+                Self.a=5;
+            }
+        }
+        Class Child: Parent{
+            Val child: String;
+            $testStatic(str: String){
+                str = "Hello";
+                RandomClass.print(str);
+            }
+            Constructor(){
+                Self.child = "Child class";
+            }
+        }

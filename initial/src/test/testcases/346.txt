@@ -1,0 +1,7 @@
+        
+        Class Ex8n  {
+                          E__(){
+                              Var o : Int = (21+3)-(Self.ock) ;
+                              Return b   ## random comment ##; 
+                          }
+                    }

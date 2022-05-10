@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Ex8n),[MethodDecl(Id(E__),Instance,[],Block([VarDecl(Id(o),IntType,BinaryOp(-,BinaryOp(+,IntLit(21),IntLit(3)),FieldAccess(Self(),Id(ock)))),Return(Id(b))]))])])

@@ -1,0 +1,6 @@
+        
+        Class A{
+            foo(a,b,c,d: Int;b:ABC){
+                Return 071;
+            }
+        }

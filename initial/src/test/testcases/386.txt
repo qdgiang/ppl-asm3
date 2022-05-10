@@ -1,0 +1,6 @@
+        
+        Class A{
+            foo(){
+                Shape.call(method);
+            }
+        }

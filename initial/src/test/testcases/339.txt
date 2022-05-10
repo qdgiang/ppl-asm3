@@ -1,0 +1,16 @@
+        
+        Class Child: Parent{
+            Val i: Int;
+            if_test(){
+                If (Child.i == 5){
+                    out.print("Bruh2");
+                }
+                Elseif (i%2 != 0){
+                    out.print("Elseif");
+                }
+                Else{
+                    out.print("Bruh3");
+                    Return 0;
+                }
+            }
+        }

@@ -1,0 +1,9 @@
+        
+        Class son: _Child{
+            Val a,c,b,d: Int;
+            if_test(){
+                If (a + b == c + d){
+                    out.print("Bruh");
+                }
+            }
+        }

@@ -1,0 +1,7 @@
+
+        Class A {
+            foo(a:Int;b:Boolean;c:String){
+                Var d:abc;
+                Var e:String = "abc";
+            }
+            }

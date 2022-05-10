@@ -1,0 +1,8 @@
+Class Programm {
+        Val child: String;
+        foreach_test(){
+            Foreach (i In 2 .. 3 By 4){
+                Out.print(arr[x]);
+            }
+        }
+    }

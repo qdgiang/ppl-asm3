@@ -1,0 +1,5 @@
+
+        Class Child {
+            foo_method(a:Int;b:Boolean;c:String){}
+            }
+        

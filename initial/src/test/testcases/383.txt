@@ -1,0 +1,9 @@
+        
+        Class A{
+            foo(){
+                Shape::$getNumOfShape();
+                Shape.getNumOfShape();
+                Shape.getNumOfShape(A.number);
+                Shape.getNumOfShape(A.number, A.getNum());
+            }
+        }

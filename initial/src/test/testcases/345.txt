@@ -1,0 +1,6 @@
+        
+        Class Chi:Par{
+           Foo(){
+               If(1){}
+           }
+       }

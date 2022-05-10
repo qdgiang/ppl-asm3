@@ -1,0 +1,17 @@
+        
+        Class Program{
+            main(){
+                Self.print("this is a special static method");
+            }
+            main(para:Int){
+                Self.print("this is not a static method");
+            }
+        }
+        Class nonProgram{
+            main(){
+                Self.print("also non static method");
+            }
+            main(para1,para2:Float){
+                Self.print("also non static method");
+            }
+        }

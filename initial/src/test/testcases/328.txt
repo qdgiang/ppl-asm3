@@ -1,0 +1,14 @@
+  Class France:Rec{
+                         Drawing(k,d,f: Int; k: String){
+                             If (k.s == f.j){
+                                 Break ;
+                             }
+                             Elseif (o.m() != x::$mj(3,4,5)){
+                                 Break;
+                             }
+                             Else {
+                                 Return nothing;
+                             }
+                         }
+        }
+                   

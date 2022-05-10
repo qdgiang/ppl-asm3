@@ -1,0 +1,22 @@
+
+        Class A: C{
+            Var a: Int;
+            Var $b: String = "Hello\n";
+            Var c,$d,e,s: Float = 5.0,2e-4,.5e-3,1.5e3;
+            Var bruh: Float = 25.2;
+            Var x,y: RandomClass;
+            Var z: RandomClass = Null;
+            Val $f: Int;
+            Val g: String = "World\b";
+            Val h,$i,j: Float = 1.0,2e-4,.5e-3;
+            Val k,$l: RandomClass;
+            Val m: RandomClass2 = Null;
+            Val $n,p: Boolean = True, False;
+            foo(){
+                Var a: ABC;
+                Val b: ABC;
+                Val c: ABC = Null;
+                Var d,e,f,g: Int = 0575 ,0xAB75, 0b1110010101, 757;
+                {}
+                }
+            }

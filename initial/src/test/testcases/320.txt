@@ -1,0 +1,20 @@
+Class Parent{
+            Val a: Int;
+            Var $b, $c: Int = 1 + 6, 2;
+            getA(){
+                Return Self.a;
+            }
+            getBplusCplusD(D: Int){
+                D = 5;
+                Return Self.b + Self.c + D;
+            }
+            Constructor(){
+                Self.a=5;
+            }
+        }
+        Class Child: Parent{
+            Val child: String;
+            Constructor(){
+                Self.child = "Child class";
+            }
+        }

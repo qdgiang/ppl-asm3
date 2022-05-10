@@ -1,0 +1,10 @@
+        
+Class Parent{
+            Val a: Int;
+            getA(){
+                Return Self.a;
+            }
+            Constructor(){
+                a=5;
+            }
+        }

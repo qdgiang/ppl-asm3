@@ -1,0 +1,6 @@
+        
+        Class A{
+            foo(){
+                Shape.getArr(b[5][6],(a+1)[5]);
+            }
+        }

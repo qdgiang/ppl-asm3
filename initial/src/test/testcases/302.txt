@@ -1,0 +1,5 @@
+Class Rectangle: Shape {
+            Constructor(a: Int) {
+                Self.length = a;
+                }
+                }
