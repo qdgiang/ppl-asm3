@@ -1,0 +1,7 @@
+
+        Class B{ Var $x: Int = 1; }
+        Class A{
+            Var x: Int = 1;
+            method(b: Int){ Var y: Int = Self.x + A::$x; }
+        }
+        

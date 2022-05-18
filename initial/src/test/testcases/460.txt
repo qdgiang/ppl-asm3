@@ -1,0 +1,12 @@
+Class A{
+            Var a: Int;
+            main(){
+                Self.a = 1;
+                {
+                    Self.a = 2;
+                    {
+                        Self.a = 3;
+                    }
+                }
+                }
+            }

@@ -1,0 +1,6 @@
+Class A{
+            main(a,b,c,d: Float){
+                a=b;
+                b=c;
+                }
+            }

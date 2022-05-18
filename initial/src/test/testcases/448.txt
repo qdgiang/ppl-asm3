@@ -1,0 +1,8 @@
+
+        Class Program {
+            main(){}
+            get(a: Int){
+                Val a: String = "S";
+            }
+        }
+        

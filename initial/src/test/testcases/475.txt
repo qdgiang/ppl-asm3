@@ -1,0 +1,6 @@
+Class A{
+            Var a: Int;
+            main(a,b,c: Int){
+                a = 1;
+                }
+            }

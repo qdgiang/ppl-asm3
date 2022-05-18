@@ -1,0 +1,6 @@
+Class A{
+            Var a,b,c,a: Int;
+            main(){
+                Self.a = 1;
+                }
+            }

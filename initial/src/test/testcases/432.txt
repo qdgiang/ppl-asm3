@@ -1,0 +1,9 @@
+Class A{
+            Var a:Int;
+            $main(){}
+            }
+            Class B{
+                main(){
+                    A::$main();
+}
+                }

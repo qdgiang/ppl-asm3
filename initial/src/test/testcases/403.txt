@@ -1,1 +1,1 @@
-Program(List(FuncDecl(Id(main),List(),IntType,Block(List(),List(CallExpr(Id(foo),List()))))))
+Program([ClassDecl(Id(Program),[MethodDecl(Id(main),Static,[],Block([Break]))])])

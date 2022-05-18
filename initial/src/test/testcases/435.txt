@@ -1,0 +1,6 @@
+Class A{
+            Var $cdef: Int;
+            main(){
+                A::$cdef = 1;
+                }
+            }

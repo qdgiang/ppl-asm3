@@ -1,0 +1,13 @@
+Class A{
+            Var b: Int;
+            main(){
+                Self.a = 1;
+                }
+            }
+            Class B{
+                Var a: A = New A();
+                main(){
+                    Self.a.b = 2;
+                }
+            }
+                

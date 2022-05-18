@@ -1,0 +1,6 @@
+Class A{
+            Var $a: Int;
+            main(){
+                A::$a = 1;
+                }
+            }

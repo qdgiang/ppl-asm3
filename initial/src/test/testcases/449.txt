@@ -1,0 +1,7 @@
+
+        Class Program {
+            mai(){
+                Var a : Boolean = 1 == 2;
+            }
+        }
+        

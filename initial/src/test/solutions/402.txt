@@ -1,1 +1,1 @@
-Type Mismatch In Expression: CallExpr(Id(getInt),List(IntLiteral(4)))
+Cannot Assign To Constant: AssignStmt(Id(myVar),IntLit(10))

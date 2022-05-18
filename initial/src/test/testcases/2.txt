@@ -1,0 +1,9 @@
+
+        Class A{
+            $method(x: Int){
+                Foreach (x In 5.1 .. 2){}
+                Return 1;
+            }
+        }
+        Class Program {main(){} submain(){ Return A::$method(1); } }
+        

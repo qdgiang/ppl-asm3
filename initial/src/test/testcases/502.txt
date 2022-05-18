@@ -1,0 +1,6 @@
+
+        Class A{
+            Destructor(){Return 1;}
+        }
+        Class Program {main(){}}
+        

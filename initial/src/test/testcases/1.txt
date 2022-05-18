@@ -1,0 +1,11 @@
+
+        Class B{
+            Var x: String = "Hello";
+            Val y: String = "HMM"
+        }
+        Class A{
+            Var a: Float;
+            main(){
+                Self.a = 4;
+            }
+        }

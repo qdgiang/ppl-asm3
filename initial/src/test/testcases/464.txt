@@ -1,0 +1,6 @@
+
+        Class Program {
+            main(){}
+            get(a : Int; b: Float; a: String){}
+        }
+        

@@ -1,5 +1,1 @@
-
-        Class A: B{
-            Val a: ABC;
-            Val b,c,d: ABC;
-            }
+Program([ClassDecl(Id(Program),[MethodDecl(Id(main),Static,[],Block([])),AttributeDecl(Instance,VarDecl(Id(myVar),StringType,StringLit(Hello World))),AttributeDecl(Instance,VarDecl(Id(myVar),IntType))])])

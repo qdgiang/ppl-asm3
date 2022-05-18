@@ -1,0 +1,6 @@
+Class A{
+            Var $a: Boolean;
+            main(){
+                A::$a = "test" ==. "String";
+                }
+            }

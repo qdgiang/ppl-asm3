@@ -1,0 +1,7 @@
+
+        Class Program {
+            main(){}
+            get(a: Int){}
+            get(){}
+        }
+        

@@ -1,0 +1,9 @@
+Class A{
+            Var a: Int;
+            $method(){}
+            main(ba: Int){
+                Foreach (ba In 1 .. 100 By 2){
+                    A::$method();
+                }
+                }
+            }

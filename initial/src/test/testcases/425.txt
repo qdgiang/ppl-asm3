@@ -1,0 +1,7 @@
+Class A{
+            Var a: Int;
+            Var b: Float = 5.5;
+            main(){
+                Self.a = Self.b;
+                }
+            }

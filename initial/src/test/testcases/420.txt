@@ -1,0 +1,6 @@
+Class A{
+            Val a: Int = 2;
+            main(){
+                Self.a = 1;
+                }
+            }

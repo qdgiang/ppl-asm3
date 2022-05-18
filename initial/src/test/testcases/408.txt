@@ -1,0 +1,6 @@
+Class B: Program{
+            Var a: Int;
+            main(){
+                Self.a = 1;
+                }
+            }

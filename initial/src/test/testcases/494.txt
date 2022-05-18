@@ -1,0 +1,6 @@
+Class A{
+            Var a: Boolean;
+            main(){
+                Self.a = True && False || False;
+                }
+            }

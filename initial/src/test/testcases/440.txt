@@ -1,0 +1,6 @@
+Class C{
+            Var a: Int;
+            main(){
+                Self.a = 9999 + (2-3);
+                }
+            }

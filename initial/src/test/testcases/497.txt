@@ -1,0 +1,6 @@
+Class A{
+            Var a: Int = 5;
+            main(){
+                Self.a = 2+3*4-5;
+                }
+            }
